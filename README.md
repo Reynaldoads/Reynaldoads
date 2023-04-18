@@ -1,9 +1,12 @@
-<h1>Olá, meu nome é Reynaldo ! </h1>
-<p>sou desenvolvedor front-end e atualmente trabalho com react, typescript, next js, javascript vanilla e template engines, como mustache e freemarker, possuo 3 anos de experiência na área de análise e desenvolvimento de sistemas.</p>
+<h1>Olá, meu nome é Reynaldo!</h1>
+<p>     Sou desenvolvedor front-end e atualmente trabalho com React, Typescript, Next JS, Javascript Vanilla e Template Engines, como Mustache e Freemarker, possuo 3 anos de experiência na área de análise e desenvolvimento de sistemas e também tenho conhecimento em ferramentas de design, como Adobe Photoshop. 
+Atualmente, estou estudando Vue JS.</p>
 
 <hr/>
 
-<p>I am a front-end developer and currently work with React, TypeScript, Next.js, vanilla JavaScript, and template engines such as Mustache and Freemarker. I have 3 years of experience in the analysis and development of systems.</p>
+<p>I am a front-end developer and currently work with React, TypeScript, Next.js, vanilla JavaScript, and template engines such as Mustache and Freemarker. I have 3 years of experience in the analysis and development of systems, and I also have knowledge in design tools such as Photoshop. 
+Currently, I am studying Vue.js
+</p>
 
 
 
@@ -22,9 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-
-
-
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -40,7 +40,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
