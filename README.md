@@ -1,15 +1,11 @@
 <h1>Olá, meu nome é Reynaldo!</h1>
-<p>     Sou desenvolvedor front-end e atualmente trabalho com React, Typescript, Next JS, Javascript Vanilla e Template Engines, como Mustache e Freemarker, possuo 3 anos de experiência na área de análise e desenvolvimento de sistemas e também tenho conhecimento em ferramentas de design, como Adobe Photoshop. 
-Atualmente, estou estudando Vue JS.</p>
+<p>     Sou desenvolvedor front-end e atualmente trabalho com React, Typescript, Next JS, Javascript Vanilla e Template Engines, como Mustache e Freemarker, possuo 5 anos de experiência na área de análise e desenvolvimento de sistemas e também tenho conhecimento em ferramentas de design, como Adobe Photoshop. 
+Atualmente, estou estudando Next JS e Golang</p>
 
 <hr/>
 
-<p>I am a front-end developer and currently work with React, TypeScript, Next.js, vanilla JavaScript, and template engines such as Mustache and Freemarker. I have 3 years of experience in the analysis and development of systems, and I also have knowledge in design tools such as Photoshop. 
-Currently, I am studying Vue.js
-</p>
-
-
-
+<p>I am a front-end developer and currently work with React, TypeScript, Next.js, vanilla JavaScript, and template engines such as Mustache and Freemarker. I have 5 years of experience in the analysis and development of systems, and I also have knowledge in design tools such as Photoshop. 
+Currently, I am studying NextJS and Golang</p>
 
 
 
